@@ -1,6 +1,6 @@
 package com.wjf.github.ffmpeg_java.util;
 
-public enum FFMPEGAudioCodec {
+public enum FFMPEGAudioCodec implements Code {
 	COPY("copy"),
 	ACC("acc");
 

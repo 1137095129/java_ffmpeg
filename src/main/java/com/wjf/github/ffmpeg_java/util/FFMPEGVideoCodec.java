@@ -1,6 +1,6 @@
 package com.wjf.github.ffmpeg_java.util;
 
-public enum FFMPEGVideoCodec {
+public enum FFMPEGVideoCodec implements Code {
 
 	COPY("copy"),
 	H264("h264"),
